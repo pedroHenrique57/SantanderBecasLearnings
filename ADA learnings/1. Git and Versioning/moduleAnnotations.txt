@@ -1,0 +1,25 @@
+    Github Documentation
+https://docs.github.com/pt
+
+Git Codes 
+
+git clone <Url> - Clone a remote repository to your machine
+git init - Start a local git repository
+git status - Check status
+
+git branch [branch name] - Create local branch (-d : Delete branch)
+git push origin --delete [branch name]	- Delete a remote branch
+git branch - List remote branches (git branch -a : List all branches [local and remote] )
+
+git checkout [branch name] - Switch to a branch
+git merge [source branch] [target branch] - Merge a branch into a target branch
+git stash - Stash changes in a dirty working directory
+git stash clear - Remove all stashed entries
+
+
+git add - Add modified files to staged status 
+git rm -r [file-name.txt] - Remove a file (or folder)
+git commit -m "[commit message]" - Commit Changes 
+
+git pull - Update local repository to the newest commit
+git push origin [branch name] - Push a branch to your remote repository (Be carefull, this command send changes directly to remote repository without ask nothing)
