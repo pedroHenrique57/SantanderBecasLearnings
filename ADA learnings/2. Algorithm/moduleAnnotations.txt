@@ -1,0 +1,12 @@
+ A algorithm is a step-by-step of how to do something, as a cake recipe for example. 
+ In a brief way the ingredients will be our data (our variable), the how-to-make will be our algorithm (Take de data and use them according to the recipe)
+and the action of make the cake it's out method. 
+
+There are some tipes of data that can be used, including:
+- Number
+- Decimals
+- Character
+- Text (string)
+- Boolean (true or false)
+
+An algorithm it's a step-by-step. but the way it can work changes according to the necessity, like a CASE scenario, or a STEP scenario, and there goes by.
