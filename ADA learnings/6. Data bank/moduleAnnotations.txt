@@ -1,0 +1,16 @@
+SQL Data types:
+https://www.w3schools.com/sql/sql_datatypes.asp
+
+distribuição de dados:
+https://www.facom.ufu.br/~ilmerio/sbd20141/sbd2modeloER.pdf
+
+normalização dos dados :
+https://www.alura.com.br/artigos/normalizacao-banco-de-dados-estrutura?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=662261334153&hsa_src=g&hsa_tgt=aud-1188215191080:dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9dGqBhAqEiwAmRpTC15zdOeT74Aq0qU9k0ESx0w0TmCmBQrWGaalvBNpDQ2PmZchgBcYTBoCNVIQAvD_BwE
+
+SQL Syntax:
+https://www.w3schools.com/sql/sql_syntax.asp
+https://www.w3schools.com/sql/sql_ref_keywords.asp
+
+SQL Key:
+https://www.w3schools.com/sql/sql_primarykey.asp
+https://www.w3schools.com/sql/sql_foreignkey.asp
